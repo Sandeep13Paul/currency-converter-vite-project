@@ -1,4 +1,6 @@
-# React + Vite
+# Currency Exchange website
+
+In this project i have used an api to call the currency of a particular country and then I am converting it into the destinated currency. Used React-Vite to build this project
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
